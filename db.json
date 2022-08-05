@@ -1,0 +1,11 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstName": "hatem",
+            "lastName": "dagbouj",
+            "email": "dagboujhatem@gmail.com",
+            "password": "hello"
+        }
+    ]
+}
